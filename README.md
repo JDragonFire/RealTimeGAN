@@ -1,8 +1,9 @@
 # RealTimeGAN
 This repository was created to store figures for paper "Stabilized Performance Maximization for GAN-based Real-Time Authentication Image Generation over Internet". 
 
-In the survey_figures folder, each file means as follows. \
 **Please download and refer to the files in the folder to see the difference in resolutions.**
+In the survey_figures folder, each file means as follows. \
+
 
 Q1, Q2 : Images used in survey question "List images in order of clarity" \
 Q1_image1, Q1_image2, Q1_image3 : Individual images used for Q1 \
